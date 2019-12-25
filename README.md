@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/FIRED-OR-TIRED)](https://github.com/AbdallahHemdan/FIRED-OR-TIRED/blob/master/LICENSE)
 ## 🔫 Fired or Tired
 ------------------
-#### Fired or Tired is a 2 player shooting game that each player has a gun and can use his gun in horizontal line to shot the other player, every player has the ability to move right or left or even jump with the existence of Gravity 🌎     
+#### Fired or Tired is a 2 player assembly X86 shooting game that each player has a gun and can use his gun in horizontal line to shot the other player, every player has the ability to move right or left or even jump with the existence of Gravity 🌎     
 #### There are 3 Power-Ups that will appear in periodic time that gives the player who takes it first its advantage either increase the health by one, shot a fire with double the power, or shield that save you from the enemy's shot 
 
 
