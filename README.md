@@ -1,7 +1,12 @@
+<div align="center">
+  
 [![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/FIRED-OR-TIRED)](https://github.com/AbdallahHemdan/FIRED-OR-TIRED/issues)
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/FIRED-OR-TIRED)](https://github.com/AbdallahHemdan/FIRED-OR-TIRED/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/FIRED-OR-TIRED)](https://github.com/AbdallahHemdan/FIRED-OR-TIRED/stargazers)
 [![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/FIRED-OR-TIRED)](https://github.com/AbdallahHemdan/FIRED-OR-TIRED/blob/master/LICENSE)
+
+</div>
+
 ## 🔫 Fired or Tired
 ------------------
 #### Fired or Tired is a 2 player assembly X86 shooting game that each player has a gun and can use his gun in horizontal line to shot the other player, every player has the ability to move right or left or even jump with the existence of Gravity 🌎     
